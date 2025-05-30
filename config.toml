@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#70A1FF"          # Azul claro suave
+backgroundColor = "#F9FBFF"       # Fondo muy claro azul pastel
+secondaryBackgroundColor = "#FFFFFF"  # Blanco puro para secciones
+textColor = "#33475B"             # Azul oscuro suave para texto
+font = "sans serif"
